@@ -59,3 +59,4 @@ You will need a C compiler like GCC installed on your system to run the game.
 
 ## Support ⭐
 If you find this project helpful or interesting, please consider giving the repository a star to show your support. Your stars motivate us to continue improving the game and creating more projects!
+
